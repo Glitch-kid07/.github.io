@@ -1,2 +1,2 @@
-# .Glitch-kid07github.io
+# Glitch-kid07github.io
 Game development portfolio yeah
